@@ -1,2 +1,2 @@
 # plantard-privacy
-Privacy policy for Plantard iOS app
+Privacy policy for PLNTR iOS app
